@@ -45,6 +45,8 @@ navbar-links:
 # then specify the following parameter
 title-img: /img/logo.png
 
+bigimg: /img/path.png
+
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
