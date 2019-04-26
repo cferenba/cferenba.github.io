@@ -102,3 +102,11 @@
 .font-14 {
     font-size: 14px;
 }
+
+.navbar-custom .navbar-brand-logo img {
+  height: 150px;
+  -webkit-transition: height .5s ease-in-out;
+  -moz-transition: height .5s ease-in-out;
+  transition: height .5s ease-in-out;
+}
+
