@@ -195,6 +195,7 @@ defaults:
       layout: "page"
       show-avatar: true
       bigimg: /img/path.jpg
+      css: /css/custom.css
 
 # Use tags index page and make tags on each post clickable
 link-tags: true
