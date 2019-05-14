@@ -1,5 +1,6 @@
 /* Customize navbar logo... */
 
+/* make logo larger than the default */
 .navbar-custom .navbar-brand-logo img {
   height: 150px;
   -webkit-box-shadow: 0 0 2px rgba(0, 0, 0, .8);
@@ -10,7 +11,14 @@
   transition: height .5s ease-in-out;
 }
 
+/* make headers bold instead of extra-bold */
 h1,h2,h3,h4,h5,h6 {
   font-weight: 700;  /* bold */
+}
+
+/* make headers bold instead of extra-bold */
+.navbar-custom .navbar-brand,
+.navbar-custom .nav li a {
+  font-weight: 700;
 }
 
