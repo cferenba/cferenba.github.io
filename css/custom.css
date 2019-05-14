@@ -1,6 +1,6 @@
 /* Customize navbar logo... */
 
-/* make logo larger than the default */
+/* make logo larger than the default, and add shadow */
 .navbar-custom .navbar-brand-logo img {
   height: 150px;
   -webkit-box-shadow: 0 0 2px rgba(0, 0, 0, .8);
